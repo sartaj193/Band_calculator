@@ -78,11 +78,7 @@ export default function TermsOfService() {
       <section style={{ marginBottom: '32px' }}>
         <h2 style={sectionTitleStyle}>Disclaimer</h2>
         <p style={paragraphStyle}>
-          The information on this website is provided on an 'as is' basis. To the fullest
-          extent permitted by law, we exclude all representations, warranties, and conditions
-          relating to our website and the use of this website. Our calculator provides
-          estimates based on official IELTS guidelines but should not replace official
-          score reports.
+          {"The information on this website is provided on an 'as is' basis. To the fullest extent permitted by law, we exclude all representations, warranties, and conditions relating to our website and the use of this website. Our calculator provides estimates based on official IELTS guidelines but should not replace official score reports."}
         </p>
       </section>
 
@@ -116,7 +112,7 @@ export default function TermsOfService() {
         <h2 style={sectionTitleStyle}>Contact Information</h2>
         <p style={paragraphStyle}>
           If you have any questions about these Terms of Service, please contact us at
-     contactbusiness083@gmail.com
+          contactbusiness083@gmail.com
         </p>
       </section>
     </div>
