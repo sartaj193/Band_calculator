@@ -73,7 +73,7 @@ export default function About() {
       <h2 style={sectionTitleStyle}>Our Mission</h2>
       <p style={paragraphStyle}>
         We aim to help IELTS candidates better understand their performance and plan their preparation
-        more effectively. Whether you're applying for university admission, immigration, or professional
+        more effectively. Whether you&apos;re applying for university admission, immigration, or professional
         registration, knowing your IELTS band score is crucial for your success.
       </p>
     </div>
