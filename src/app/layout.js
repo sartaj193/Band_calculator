@@ -28,10 +28,6 @@ export default function RootLayout({ children }) {
     </html>
   );
 }*/
-
-
-
-
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { SpeedInsights } from "@vercel/speed-insights/next";
@@ -51,6 +47,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "IELTS Band Calculator",
   description: "Calculate your IELTS band scores from raw Listening/Reading or input known bands, with reference tables.",
+  verification: {
+    google: 'cZv5vKX05nYD2odqqA3fXnLHSvAm6lGCtRu5y2ZPYjc'
+  }
 };
 
 export default function RootLayout({ children }) {
@@ -68,4 +67,3 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
-
