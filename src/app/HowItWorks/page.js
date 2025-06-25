@@ -70,8 +70,7 @@ export default function HowItWorks() {
       <h1 style={headingStyle}>How It Works</h1>
       
       <p style={paragraphStyle}>
-        Our IELTS Band Calculator uses the official scoring methodology to calculate your overall band score. 
-        Here's how it works and what you need to know about IELTS scoring.
+        {"Our IELTS Band Calculator uses the official scoring methodology to calculate your overall band score. Here's how it works and what you need to know about IELTS scoring."}
       </p>
 
       <h2 style={sectionTitleStyle}>IELTS Scoring System</h2>
@@ -102,8 +101,7 @@ export default function HowItWorks() {
 
       <h2 style={sectionTitleStyle}>Official Calculation Method</h2>
       <p style={paragraphStyle}>
-        The overall band score is calculated by taking the average of your four individual scores and 
-        rounding to the nearest whole or half band. Here's how the rounding works:
+        {"The overall band score is calculated by taking the average of your four individual scores and rounding to the nearest whole or half band. Here's how the rounding works:"}
       </p>
 
       <ul style={listStyle}>
