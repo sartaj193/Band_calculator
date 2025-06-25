@@ -111,7 +111,7 @@ export default function PrivacyPolicy() {
         <h2 style={sectionTitleStyle}>Contact Us</h2>
         <p style={paragraphStyle}>
           If you have any questions about this Privacy Policy, please contact us at
-       contactbusiness083@gmail.com
+          contactbusiness083@gmail.com
         </p>
       </section>
     </div>
