@@ -60,10 +60,9 @@ export default function FAQ() {
         Yes, the band calculation method is the same for both Academic and General Training IELTS tests.
       </p>
 
-      <h2 style={questionStyle}>What if my scores don't seem right?</h2>
+      <h2 style={questionStyle}>{"What if my scores don't seem right?"}</h2>
       <p style={answerStyle}>
-        Please double-check your individual section scores. If you believe there's an error with our calculator, 
-        contact us with the specific scores you entered.
+        {"Please double-check your individual section scores. If you believe there's an error with our calculator, contact us with the specific scores you entered."}
       </p>
 
       <h2 style={questionStyle}>How often is the calculator updated?</h2>
@@ -74,11 +73,10 @@ export default function FAQ() {
 
       <h2 style={questionStyle}>Can I save my results?</h2>
       <p style={answerStyle}>
-        Currently, the calculator doesn't save results. We recommend taking a screenshot or noting down 
-        your calculated band score for future reference.
+        {"Currently, the calculator doesn't save results. We recommend taking a screenshot or noting down your calculated band score for future reference."}
       </p>
 
-      <h2 style={questionStyle}>What's the difference between individual and overall band scores?</h2>
+      <h2 style={questionStyle}>{"What's the difference between individual and overall band scores?"}</h2>
       <p style={answerStyle}>
         Individual band scores are your performance in each of the four skills (Listening, Reading, Writing, Speaking), 
         while the overall band score is the average of these four scores, rounded to the nearest 0.5.
@@ -86,7 +84,7 @@ export default function FAQ() {
 
       <h2 style={questionStyle}>Do I need to create an account to use the calculator?</h2>
       <p style={answerStyle}>
-        No, you don't need to create an account. Our calculator works instantly without any registration.
+        {"No, you don't need to create an account. Our calculator works instantly without any registration."}
       </p>
 
       <h2 style={questionStyle}>Can I use this calculator on mobile devices?</h2>
@@ -97,8 +95,7 @@ export default function FAQ() {
       <div style={{ marginTop: '48px', padding: '24px', backgroundColor: '#f9fafb', borderRadius: '8px' }}>
         <h2 style={questionStyle}>Still have questions?</h2>
         <p style={answerStyle}>
-          If you couldn't find the answer you're looking for, please don't hesitate to contact us at 
-          contactbusiness083@gmail.com. We're here to help!
+          {"If you couldn't find the answer you're looking for, please don't hesitate to contact us at contactbusiness083@gmail.com. We're here to help!"}
         </p>
       </div>
     </div>
